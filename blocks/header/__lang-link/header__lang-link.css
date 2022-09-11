@@ -1,4 +1,6 @@
 .header__lang-link {
+  text-decoration: none;
+  color: white;
   font-family: 'Inter';
   font-weight: 400;
   font-style: normal;
