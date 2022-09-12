@@ -1,0 +1,12 @@
+.place__site-header {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #AAA;
+  margin: 0;
+  padding-bottom: 12px;
+}
