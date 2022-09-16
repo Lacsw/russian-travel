@@ -1,12 +1,18 @@
 .place__site-header {
-  font-family: 'Inter', Arial, sans-serif;
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
   line-height: 1;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #AAA;
+  color: #aaa;
   margin: 0;
-  padding-bottom: 12px;
+  margin-bottom: 12px;
+}
+
+@media screen and (max-width: 1279px) {
+  .place__site-header {
+    line-height: 1.7;
+  }
 }

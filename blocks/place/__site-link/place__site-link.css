@@ -1,12 +1,14 @@
 .place__site-link {
-  color: white;
+  color: #fff;
   font-family: 'Inter', Arial, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
   line-height: 1.22;
+  text-decoration: underline;
 }
 
 .place__site-link:hover {
-  opacity: .8;
+  opacity: 0.8;
+  transition: opacity 0.5s ease-in-out;
 }
