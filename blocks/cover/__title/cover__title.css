@@ -5,10 +5,11 @@
   font-size: 72px;
   line-height: 1.06;
   text-align: center;
-  color: white;
+  color: #fff;
   max-width: 560px;
   margin: 0;
-  padding-bottom: 32px;
+  margin-bottom: 32px;
+  padding: 0;
   position: relative;
 }
 
@@ -16,7 +17,7 @@
   .cover__title {
     font-size: 32px;
     line-height: 1.09;
-    padding-bottom: 16px;
+    margin-bottom: 16px;
     max-width: 288px;
   }
 }
